@@ -1,3 +1,3 @@
-com/newrelic/restservice/RestServiceApplication.class
 com/newrelic/restservice/Greeting.class
 com/newrelic/restservice/GreetingController.class
+com/newrelic/restservice/RestServiceApplication.class
